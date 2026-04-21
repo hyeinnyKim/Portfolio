@@ -97,6 +97,7 @@ section {
 }
 /* con03 */
 .con03 {
+  height: 100vh;
   position: relative;
 }
 .con03 h2 {
@@ -152,6 +153,7 @@ section {
 
 /* con04 */
 .con04 {
+  height: 100vh;
   position: relative;
 }
 .con04 h2 {
@@ -175,7 +177,7 @@ section {
 }
 .con04 li {
   width: calc(100% / 4);
-  height: 500px;
+  height: 300px;
   border-radius: 1rem;
   display: flex;
   align-items: center;
